@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algorithm/Algorithm Princeton/UNION-FIND/","title":"UNION-FIND","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/algorithm/Algorithm Princeton/UNION-FIND/","title":"UNION-FIND"}
 ---
 
 

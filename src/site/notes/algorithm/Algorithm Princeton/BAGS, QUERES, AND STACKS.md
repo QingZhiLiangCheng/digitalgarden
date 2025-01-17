@@ -11,7 +11,7 @@ the stack and queue, differ in the way in which the item to be removed is chosen
 Our sub text today is all about modular programming.
 The idea is to completely separate the interface and the implementation.
 So when we have these types of data structures and data types that are precisely defined, like stacks and queues ans so forth, what we weant to do is completely separate the details of the implementation form the client. The client can have many different implementations from which to choose, but the client code should only perform the basic operations.
-The implementation, on the other hand, can't know the details of the client needs. All it's supposed to do is implement those operations. In other way, many clients can reuse the same implementation. 
+The implementation, on the other hand, can't know the details of the client needs. All it's supposed to do is implement those operations.In other way, many clients can reuse the same implementation. 
 So this allows use to create modular, reusable libraries of algorithms and data structure that we can use to build more complicated algorithms and data structures.
 
 ### stacks
